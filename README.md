@@ -14,9 +14,9 @@
 
 ### B. Run experiment flow 
 
-With jupyter notebook opened 
-1. run preprocessing_group.ipynb 
-2. run dataanalyzer_with_feature_selection_<mi/pcc>.ipynb
-3. run ml_<mi/pcc>.ipynb
-4. run Tensorboard.ipynb
+(With jupyter notebook opened)
+1. execute `preprocessing_group.ipynb`
+2. execute `dataanalyzer_with_feature_selection_<mi/pcc>.ipynb`
+3. execute `ml_<mi/pcc>.ipynb`
+4. execute `Tensorboard.ipynb`
 
