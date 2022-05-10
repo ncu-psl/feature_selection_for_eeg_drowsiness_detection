@@ -1,5 +1,5 @@
 # DrosinessDetectionEEG
-
+<!-- 
 ## Structure 
 
 ### Script
@@ -22,3 +22,4 @@ We use our classification model by leveraging Pytorch Lighting package. In order
 
 #### Tensorboard checkpoint loader
 We can use this loader to inspect whether our result is as expected and where it crashed. Then we can use the checkpoints implemented in LSTM model to reload data and continue training.
+ -->
